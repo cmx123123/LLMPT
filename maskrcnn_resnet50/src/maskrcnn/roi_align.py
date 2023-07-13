@@ -13,7 +13,7 @@
 # limitations under the License.
 # ============================================================================
 """MaskRcnn ROIAlign module."""
-
+#代码注释
 import numpy as np
 import mindspore.nn as nn
 import mindspore.common.dtype as mstype

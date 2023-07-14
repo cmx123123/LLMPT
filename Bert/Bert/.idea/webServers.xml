@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71362f71-141a-475c-bf00-066e5dea9129" name="HUAWEI">
+        <fileTransfer rootFolder="/home/ma-user/work" accessType="SFTP" host="authoring-ssh.cncentral231.xckpjs.com" port="31155" sshConfigId="96a4560a-0fa6-4e8e-8adb-ba1b9a0bc4da" sshConfig="ma-user@authoring-ssh.cncentral231.xckpjs.com:31155 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
